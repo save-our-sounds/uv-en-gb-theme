@@ -1,13 +1,42 @@
-.uv.fullscreen {
+.uv {
 
-    #debug {
+    background: transparent;
 
-        #desktop {
+    .headerPanel {
+        .desktop-mediaquery({
+            display: none;
+        });
+    }
+
+    .mainPanel {
+
+        .leftPanel {
             .desktop-mediaquery({
-                display: block !important;
+                display: none;
+            });
+        }
+
+        .rightPanel {
+            .desktop-mediaquery({
+                display: none;
             });
         }
     }
+
+    .footerPanel {
+        .desktop-mediaquery({
+            display: none;
+        });
+    }
+
+    .mobileFooterPanel {
+        .desktop-mediaquery({
+            display: block;
+        });
+    }
+}
+
+.uv.fullscreen {
 
     .headerPanel {
         .desktop-mediaquery({
@@ -47,8 +76,4 @@
             display: none;
         });
     }
-}
-
-.uv {
-    background: transparent;
 }

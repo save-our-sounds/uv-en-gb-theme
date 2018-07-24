@@ -3,13 +3,18 @@
     .mobileFooterPanel {
       	margin-top: -78px;
 
-      	&.fullScreen {
-			display: block !important;
-			float: left !important;
-
-			@media only screen and (min-width: @watch-min-width) and (max-width: @mobile-landscape-max-width) {
-				display: none !important;
+		.options{
+			.btn {
+				&.fullScreen {
+					display: block !important;
+					float: left !important;
+		
+					@media only screen and (min-width: @watch-min-width) and (max-width: @mobile-landscape-max-width) {
+						display: none !important;
+					}
+				}
 			}
-    	}
+		}
+      	
     }
 }

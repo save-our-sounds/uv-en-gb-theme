@@ -1,20 +1,36 @@
 @theme-assets-path: '../../../themes/@{theme}/assets/';
 
-.uv.en-gb {
+.uv {
     .centerPanel {
 
         .title {
             display: none;
-
-            .desktop-mediaquery({
-                display: block;
-            });
         }
 
         .iiif-av-component {
             .poster-image {
                 display: none;
             }
+        }
+        
+    }
+}
+
+.uv.fullscreen {
+    .centerPanel {
+
+        .title {
+            .desktop-mediaquery({
+                display: block;
+            });
+        }
+
+        .iiif-av-component {
+            .desktop-mediaquery({
+                .poster-image {
+                    display: none;
+                }
+            });            
         }
         
     }

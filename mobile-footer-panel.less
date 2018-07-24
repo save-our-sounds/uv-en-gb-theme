@@ -3,6 +3,10 @@
     .mobileFooterPanel {
       	margin-top: -78px;
 
+		@media only screen and (min-width: @watch-min-width) and (max-width: @mobile-landscape-max-width) {
+			width: 93px;
+		}
+
 		.options{
 			.btn {
 				&.fullScreen {

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon__currentlyPlaying@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Fina-Designs-17th-June-2018" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mainPlayer-desktop-wide-view" transform="translate(-248.000000, -692.000000)">
+            <g id="TracksArea" transform="translate(248.000000, 603.000000)">
+                <g id="TracksList" transform="translate(0.000000, 38.000000)">
+                    <g id="icon/currentlyPlaying" transform="translate(0.000000, 51.000000)">
+                        <g id="Group-5-Copy-10">
+                            <rect id="Rectangle-34" fill="#00B5B5" x="0" y="0" width="20" height="20"></rect>
+                            <path d="M11.4814815,3.88888889 L11.4814815,5.32433802 C13.6222222,5.92360319 15.1851852,7.7910807 15.1851852,10 C15.1851852,12.2089193 13.6222222,14.0763968 11.4814815,14.675662 L11.4814815,16.1111111 C14.4518519,15.4770049 16.6666667,12.9823895 16.6666667,10 C16.6666667,7.01761054 14.4518519,4.52299506 11.4814815,3.88888889 Z M13.3333333,10 C13.3333333,8.76662866 12.5777778,7.70746231 11.4814815,7.19181553 L11.4814815,12.8012163 C12.5777778,12.2925377 13.3333333,11.2333713 13.3333333,10 Z M3.33333333,7.9095401 L3.33333333,12.0904599 L6.2962963,12.0904599 L10,15.5745597 L10,4.42544026 L6.2962963,7.9095401 L3.33333333,7.9095401 Z" id="Page-1" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

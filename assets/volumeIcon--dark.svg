@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>volumeIcon--dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="volumeControl/dark" fill="#333333">
+            <g id="Group-11">
+                <path d="M14.0555556,0 L14.0555556,2.58380844 C17.7483333,3.66248575 20.4444444,7.02394527 20.4444444,11 C20.4444444,14.9760547 17.7483333,18.3375143 14.0555556,19.4161916 L14.0555556,22 C19.1794444,20.8586089 23,16.368301 23,11 C23,5.63169897 19.1794444,1.14139111 14.0555556,0 Z M17.25,11 C17.25,8.77993158 15.9466667,6.87343216 14.0555556,5.94526796 L14.0555556,16.0421893 C15.9466667,15.1265678 17.25,13.2200684 17.25,11 Z M0,7.23717218 L0,14.7628278 L5.11111111,14.7628278 L11.5,21.0342075 L11.5,0.965792474 L5.11111111,7.23717218 L0,7.23717218 Z" id="volumeIcon--dark"></path>
+            </g>
+        </g>
+    </g>
+</svg>

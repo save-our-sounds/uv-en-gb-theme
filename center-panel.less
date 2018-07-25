@@ -41,8 +41,49 @@
                 }
             }
 
-            .av-icon-play.play {
-                background-image: data-uri('@{theme-assets-path}button__play@3x.svg');
+            // svg icons
+
+            .av-icon-mute {
+
+                &.on {
+                    background-image: data-uri('@{img-path}volume-on.svg');
+                }
+        
+                &.off {
+                    background-image: data-uri('@{img-path}volume-off.svg');
+                }
+            }
+        
+            .av-icon-previous {
+                background-image: data-uri('@{img-path}previous.svg');
+            }
+        
+            .av-icon-play {
+        
+                &.play {
+                    background-image: data-uri('@{img-path}play.svg');
+                }
+        
+                &.pause {
+                    background-image: data-uri('@{img-path}pause.svg');
+                }
+                
+            }
+        
+            .av-icon-next {
+                background-image: data-uri('@{img-path}next.svg');
+            }
+        
+            .av-icon-expand {
+        
+                &.expand {
+                    background-image: data-uri('@{img-path}expand.svg');
+                }
+        
+                &.collapse {
+                    background-image: data-uri('@{img-path}collapse.svg');
+                }
+                
             }
         }
         

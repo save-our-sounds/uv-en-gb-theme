@@ -1,31 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
-  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""/>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?></metadata>
-<image x="8" width="20" height="31" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAfCAQAAABNRyVFAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfiBxoINi82AoZWAAABAElEQVQ4y43TvyvEYRwH8Nedm85EOmVXzCwoNuN17AadnEyS2Y8ssuPE3+BkdKWOsNhd2ZVLGXRGGS51x/fueT7b8+nV5/18nnpSE4f2fQpW2pYbYzHww6SaQhhCTsWOVBjCrku5GEhezXQMZExVKQaSVXYiG4aw5tpoDGTGnXwMZFjFdgwkbc+FoTCEBbemYiDjqlZiIP3OHBnMBCGsa4YnwrGD8MSmDeeE4LOix/AyFbMt1gt+27Ho/ffYLfrNqqv2RjK8t+yls5UUXTb/l/2f+GXTaVJIJ6wreki+dHv0lblurPO7FjS6P2kruqHkUs/KGPBkSV2g+kb6Fb2GGD92LjMNTXtY8wAAAABJRU5ErkJggg=="/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13px" height="22px" viewBox="0 0 13 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>button__play@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Fina-Designs-17th-June-2018" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="universalPlayer---desktop" transform="translate(-434.000000, -671.000000)" fill="#FFFFFF">
+            <g id="Group-6-Copy" transform="translate(312.000000, 634.000000)">
+                <g id="button/play" transform="translate(114.000000, 36.000000)">
+                    <g id="Group-3" transform="translate(-3.000000, 0.000000)">
+                        <polygon id="Rectangle-27" transform="translate(12.000000, 12.000000) rotate(-45.000000) translate(-12.000000, -12.000000) " points="19.0710678 3.51471863 20.4852814 20.4852814 3.51471863 19.0710678"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

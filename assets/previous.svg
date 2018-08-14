@@ -1,19 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>button__previousTrack</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Fina-Designs-17th-June-2018" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="mainPlayer-desktop-wide-view" transform="translate(-250.000000, -560.000000)" fill="#FFFFFF">
-            <g id="TrackControls" transform="translate(250.000000, 556.000000)">
-                <g id="button/previousTrack" transform="translate(0.000000, 3.000000)">
-                    <g id="Group-3" transform="translate(13.500000, 12.000000) scale(-1, 1) translate(-13.500000, -12.000000) ">
-                        <polygon id="Rectangle-27" transform="translate(12.000000, 12.000000) rotate(-45.000000) translate(-12.000000, -12.000000) " points="19.0710678 3.51471863 20.4852814 20.4852814 3.51471863 19.0710678"></polygon>
-                        <rect id="Rectangle-Copy" x="24" y="1" width="3" height="22"></rect>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0 0 92 92">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<image id="button__previousTrack" x="19" width="54" height="92" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAABcCAQAAACPI45qAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfiCA4IHSsaNOg/AAAC1ElEQVRo3r3aP0iVURjH8e/jP8gwB3PKRXKSkqbcJM1uYKgJBpEQCUJG2CJBDTXkkBANGYFRYARFkFAqCd1Mw81GCyfDxSZzMMFA0afByvS+Xt8/5zxnu+c85/1w7h3e3zn3oEHtGB6a9mKF6S1VI0y7VY0wvbL5WANM23TdCNOWv5R3TBt0deuxOS6/sAyqjkHytz57xLSat+z7v8cbplWkKdre5wnTSj5yYGevF0wrSHMws98DpmWkORQ04hzTUiYoDx5zjGkJ41TsNuoU02JGObL7uENMCxnmeLYKZ5gWMERN9hpHmOYzSP1eVU4wzeUZjXvXOcBU6OdCmEoXK3tAR7jCxJj20hW+ONHLU29ohJYI064oVKI3tXbQF21GbEzbeBx1TkxMmxiIPjcWpvXbg4xHTGsYjkPFwLSake2ZyRumR3mXGWS8YFrBOCVxqUiYlvMpKDN5wLSMD8GZyTmmpbzncDIqJKbFjFGZlAqFaRFpqpJTITAtZCh7ZnKGaQGvqXVD7YFpLq9ocEVlxTSH57S4o7JgKjwKl5lcrOwenW6pXTG9Q7drCvICe9u55p7yeloQFhugx3Blcpv7ZhhwnX4zTJSrvLRaGbLBRd4YYSDrnGfUCANZ5RwTRhjICs18NsJAlkkxbYSBLFHPjBEGssBpvhlhIPOc4rsRBjLHCX4YYSCz1LFohIF84Qw/jTCQKRr5ZYSBTNLEmhEGMkZrHC5mLJBh2tkwwkBecNkMA3kaNYMlSlfykJuRJiT9S0vvGp3K/eH6LDHRJ96PAP/9ckpnuBzmJH7LOpcYMcJA1mhlzAgDWaWZSSMMZIWm7DnM6ZZJlmjgqxEGskgds0YYyAK1zBlhIPOkgnOYl22uzJIKymGe9tQyw8nMYORtAy/TpFg2wkCmOLs9h3k9mpDxHcEo+SsmezO8fAKm12rA9MIQmF6Fgs1LXnnJHxOuSY/u/w287CRFVwssEQAAAABJRU5ErkJggg=="/>
 </svg>

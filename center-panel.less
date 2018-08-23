@@ -13,10 +13,6 @@
 
                 margin: 10px 5px 55px 15px;
 
-                .desktop-mediaquery({
-                    margin: 10px 5px 20px 15px;
-                });
-
                 .title {
                     display: block;
                 }
@@ -117,21 +113,30 @@
 }
 
 .uv.fullscreen {
+    
     .centerPanel {
 
-        .title {
-            .desktop-mediaquery({
-                display: block;
-            });
+        .content {
+
+            .attribution {
+                margin: 10px 5px 20px 15px;
+            }
+
+            .title {
+                .desktop-mediaquery({
+                    display: block;
+                });
+            }
+    
+            .iiif-av-component {
+                .desktop-mediaquery({
+                    .poster-image {
+                        display: block;
+                    }
+                });            
+            }
+
         }
 
-        .iiif-av-component {
-            .desktop-mediaquery({
-                .poster-image {
-                    display: block;
-                }
-            });            
-        }
-        
     }
 }

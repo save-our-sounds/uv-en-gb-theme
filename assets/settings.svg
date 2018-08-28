@@ -7,13 +7,25 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3927"
+   width="23px"
+   height="22px"
+   viewBox="0 0 23 22"
    version="1.1"
-   viewBox="0 0 30 30"
-   height="30"
-   width="30"
+   id="svg35"
    sodipodi:docname="settings.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SettingsIcon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      pagecolor="#000000"
      bordercolor="#666666"
@@ -25,155 +37,138 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     id="namedview23"
+     id="namedview37"
      showgrid="false"
-     inkscape:zoom="15.733333"
-     inkscape:cx="20.891023"
-     inkscape:cy="14.688403"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11.5"
+     inkscape:cy="11"
      inkscape:window-x="2552"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3927" />
-  <metadata
-     id="metadata3964">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>SettingsIcon</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+     inkscape:current-layer="svg35" />
   <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
   <title
-     id="title3929">SettingsIcon</title>
+     id="title2">SettingsIcon</title>
   <desc
-     id="desc3931">Created with Sketch.</desc>
+     id="desc4">Created with Sketch.</desc>
   <defs
-     id="defs3933" />
+     id="defs6" />
   <g
-     transform="translate(3.4397791,3.9999997)"
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
-     id="Page-1">
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
     <g
-       style="fill:#ffffff"
-       transform="translate(-142,-20)"
-       id="BritishLibraryIcons">
+       id="BritishLibraryIcons"
+       transform="translate(-142.000000, -20.000000)">
       <g
-         style="fill:#ffffff"
-         transform="translate(142,20)"
-         id="SettingsIcon">
+         id="SettingsIcon"
+         transform="translate(142.000000, 20.000000)">
         <ellipse
-           style="fill:#ffffff;stroke:#ffffff;stroke-width:2.03461528"
-           ry="8.2458506"
-           rx="8.2309437"
+           id="Oval-12"
+           stroke="#FFFFFF"
+           stroke-width="2.03461538"
+           cx="11.5603147"
            cy="11"
-           cx="11.560315"
-           id="Oval-12" />
+           rx="8.23094406"
+           ry="8.2458502" />
         <rect
-           style="fill:#ffffff"
-           height="3.4736843"
-           width="2.312063"
+           id="Rectangle-44"
+           fill="#FFFFFF"
+           x="10.4042832"
            y="0"
-           x="10.404284"
-           id="Rectangle-44" />
+           width="2.31206294"
+           height="3.47368421" />
         <rect
-           style="fill:#ffffff"
-           height="3.4736843"
-           width="2.312063"
-           y="1.2410278"
-           x="15.028409"
-           transform="rotate(30,16.184441,2.9778698)"
-           id="rect3940" />
+           id="rect10"
+           fill="#FFFFFF"
+           transform="translate(16.184441, 2.977870) rotate(-330.000000) translate(-16.184441, -2.977870) "
+           x="15.0284091"
+           y="1.24102784"
+           width="2.31206294"
+           height="3.47368421" />
         <rect
-           style="fill:#ffffff"
-           height="3.4736843"
-           width="2.312063"
-           y="4.6315789"
-           x="18.413504"
-           transform="rotate(60,19.569536,6.3684206)"
-           id="rect3942" />
+           id="rect12"
+           fill="#FFFFFF"
+           transform="translate(19.569536, 6.368421) rotate(-300.000000) translate(-19.569536, -6.368421) "
+           x="18.4135042"
+           y="4.63157895"
+           width="2.31206294"
+           height="3.47368421" />
         <rect
-           style="fill:#ffffff"
-           height="3.4736843"
-           width="2.312063"
-           y="9.2631578"
-           x="19.652534"
-           transform="rotate(90,20.808566,11)"
-           id="rect3944" />
+           id="rect14"
+           fill="#FFFFFF"
+           transform="translate(20.808566, 11.000000) rotate(-270.000000) translate(-20.808566, -11.000000) "
+           x="19.652535"
+           y="9.26315789"
+           width="2.31206294"
+           height="3.47368421" />
         <rect
-           style="fill:#ffffff"
-           height="3.4736843"
-           width="2.312063"
-           y="13.894737"
-           x="18.413504"
-           transform="rotate(120,19.569536,15.631579)"
-           id="rect3946" />
+           id="rect16"
+           fill="#FFFFFF"
+           transform="translate(19.569536, 15.631579) rotate(-600.000000) translate(-19.569536, -15.631579) "
+           x="18.4135042"
+           y="13.8947368"
+           width="2.31206294"
+           height="3.47368421" />
         <rect
-           style="fill:#ffffff"
-           height="3.4736843"
-           width="2.312063"
+           id="rect18"
+           fill="#FFFFFF"
+           transform="translate(16.184441, 19.022130) rotate(-570.000000) translate(-16.184441, -19.022130) "
+           x="15.0284091"
            y="17.285288"
-           x="15.028409"
-           transform="rotate(150,16.184441,19.02213)"
-           id="rect3948" />
+           width="2.31206294"
+           height="3.47368421" />
         <rect
-           style="fill:#ffffff"
-           height="3.4736843"
-           width="2.312063"
-           y="18.526316"
-           x="10.404284"
-           transform="rotate(180,11.560315,20.263158)"
-           id="rect3950" />
+           id="rect20"
+           fill="#FFFFFF"
+           transform="translate(11.560315, 20.263158) rotate(-180.000000) translate(-11.560315, -20.263158) "
+           x="10.4042832"
+           y="18.5263158"
+           width="2.31206294"
+           height="3.47368421" />
         <rect
-           style="fill:#ffffff"
-           height="3.4736843"
-           width="2.312063"
+           id="rect22"
+           fill="#FFFFFF"
+           transform="translate(6.936189, 19.022130) rotate(-510.000000) translate(-6.936189, -19.022130) "
+           x="5.78015734"
            y="17.285288"
-           x="5.7801576"
-           transform="rotate(-150,6.936189,19.02213)"
-           id="rect3952" />
+           width="2.31206294"
+           height="3.47368421" />
         <rect
-           style="fill:#ffffff"
-           height="3.4736843"
-           width="2.312063"
-           y="13.894737"
-           x="2.3950622"
-           transform="rotate(-120,3.5510939,15.631579)"
-           id="rect3954" />
+           id="rect24"
+           fill="#FFFFFF"
+           transform="translate(3.551094, 15.631579) rotate(-480.000000) translate(-3.551094, -15.631579) "
+           x="2.39506226"
+           y="13.8947368"
+           width="2.31206294"
+           height="3.47368421" />
         <rect
-           style="fill:#ffffff"
-           height="3.4736843"
-           width="2.312063"
-           y="9.2631578"
-           x="1.1560315"
-           transform="rotate(-90,2.312063,11)"
-           id="rect3956" />
+           id="rect26"
+           fill="#FFFFFF"
+           transform="translate(2.312063, 11.000000) rotate(-450.000000) translate(-2.312063, -11.000000) "
+           x="1.15603147"
+           y="9.26315789"
+           width="2.31206294"
+           height="3.47368421" />
         <rect
-           style="fill:#ffffff"
-           height="3.4736843"
-           width="2.312063"
-           y="4.6315789"
-           x="2.3950622"
-           transform="rotate(-60,3.551094,6.368421)"
-           id="rect3958" />
+           id="rect28"
+           fill="#FFFFFF"
+           transform="translate(3.551094, 6.368421) rotate(-780.000000) translate(-3.551094, -6.368421) "
+           x="2.39506226"
+           y="4.63157895"
+           width="2.31206294"
+           height="3.47368421" />
         <rect
-           style="fill:#ffffff"
-           height="3.4736843"
-           width="2.312063"
-           y="1.2410278"
-           x="5.7801576"
-           transform="rotate(-30,6.9361889,2.97787)"
-           id="rect3960" />
+           id="rect30"
+           fill="#FFFFFF"
+           transform="translate(6.936189, 2.977870) rotate(-750.000000) translate(-6.936189, -2.977870) "
+           x="5.78015734"
+           y="1.24102784"
+           width="2.31206294"
+           height="3.47368421" />
       </g>
     </g>
   </g>
-  <circle
-     style="fill:#3e114e;fill-opacity:1"
-     id="path832"
-     cx="15.000093"
-     cy="15"
-     r="4.1949153" />
 </svg>

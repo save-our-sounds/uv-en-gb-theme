@@ -2,7 +2,19 @@
 
     .mobileFooterPanel {
 
-		width: 135px;
+		width: 90px;
+
+		.options{
+			.btn {
+				&.fullScreen {
+					float: left !important;
+		
+					@media only screen and (min-width: @watch-min-width) and (max-width: 600px) {
+                        display: none !important;
+                    }
+				}
+			}
+		}
 
 		@media only screen and (min-width: @watch-min-width) and (max-width: 600px) {
 			width: 93px;
@@ -16,18 +28,15 @@
 }
 
 .uv.fullscreen-supported {
-	
+
 	.mobileFooterPanel {
+
+		width: 135px;
 
 		.options{
 			.btn {
 				&.fullScreen {
 					display: block !important;
-					float: left !important;
-		
-					@media only screen and (min-width: @watch-min-width) and (max-width: 600px) {
-                        display: none !important;
-                    }
 				}
 			}
 		}

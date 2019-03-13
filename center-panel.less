@@ -7,6 +7,10 @@
             display: none;
         }
 
+        .subtitle {
+            display: none;
+        }
+
         .content {
 
             .attribution {
@@ -122,6 +126,12 @@
             });
         }
 
+        .subtitle {
+            .desktop-mediaquery({
+                display: block;
+            });
+        }
+
         .content {
     
             .iiif-av-component {
@@ -132,6 +142,21 @@
                 });            
             }
 
+        }
+
+    }
+}
+
+.uv.embedded {
+
+    .centerPanel {
+
+        .title {
+            display: block;
+        }
+
+        .subtitle {
+            display: block;
         }
 
     }
